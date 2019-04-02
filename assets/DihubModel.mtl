@@ -1,0 +1,26 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Roofing_Tile_Spanish
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.250980 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd DihubModel/Roofing_Tile_Spanish.jpg
+
+newmtl Tile_Ceramic_Natural
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.705882 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd DihubModel/Tile_Ceramic_Natural.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_D02
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.898039 0.600000
+Ks 0.330000 0.330000 0.330000
+
